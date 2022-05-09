@@ -1,7 +1,6 @@
 # blumenau
 
-https://alertablu.blumenau.sc.gov.br/static/data/nivel_oficial.json
-https://alertablu.blumenau.sc.gov.br/static/data/temperaturas.json
+https://alertablu.blumenau.sc.gov.br/static/data/nivel_oficial.json https://alertablu.blumenau.sc.gov.br/static/data/temperaturas.json
 https://alertablu.blumenau.sc.gov.br/static/data/situacao_atual.json
 
 https://blumenau.sc.gov.br/previsaoappnotf/inundacao/camadas/7m.kmz
